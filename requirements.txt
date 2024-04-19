@@ -3,5 +3,5 @@ gunicorn
 plotly==5.20.0
 dash-tools
 pandas==2.1.4
-dash_bootstap_components==1.6.0
+dash_bootstap_components==1.5.0
 #necessary packages
