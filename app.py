@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import plotly.express as px
 
-df = pd.read_csv('./data/mart_forecast_day_202404171547.csv')
+df = pd.read_csv('mart_forecast_day_202404171547.csv')
 df
 
 df_berlin = df[df['city'] == 'Berlin']
